@@ -16,7 +16,7 @@ const Project = [
     {
     id: 3,
     image: "./images/appstore.png",
-    projectName: "React - Weather App",
+    projectName: "App Store",
     projectLink:"https://my-app-store-eight.vercel.app/",
 
 },
